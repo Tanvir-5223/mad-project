@@ -1,6 +1,6 @@
 # mad_project
 
-A new Flutter project.
+Kiddo - Kids Learning App
 
 ## Getting Started
 
