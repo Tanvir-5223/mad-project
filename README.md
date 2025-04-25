@@ -1,6 +1,6 @@
 # mad_project
 
-Kiddo - Kids Learning App
+Kido - Kids Learning App
 
 ## Getting Started
 
