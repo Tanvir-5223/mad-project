@@ -1,7 +1,8 @@
 # mad_project
 
 KIDO - Kids Learning App
-
+Parent & Child Dashboard, Implement mathGame,  Learn basic mathematics and Implementation mathDetails, Implement basic art board, Learn basic knowledge, Learn watching video.
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
