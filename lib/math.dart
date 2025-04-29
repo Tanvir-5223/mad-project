@@ -129,7 +129,7 @@ class _MathPageState extends State<MathPage> {
           children: [
             _numberCard(
               context: context,
-              title: 'English Numbers',
+              title: 'English Number',
               subtitle: 'Learn 1 to 100',
               numbers: ['1\nOne', '2\nTwo', '3\nThree'],
               points: ['Numbers 1-10', 'Number Names', 'Counting Practice'],
